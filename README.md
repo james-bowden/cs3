@@ -1,5 +1,5 @@
 # cs3
-Collection of projects done as part of Caltech's Software Design course.Written from scratch in C.
+Collection of projects done as part of Caltech's Software Design course. Written from scratch in C.
 
 *The Caltech Honor Code applies; please do not consult/use this repo if you are taking the course or will be taking the course in the future.*
 
